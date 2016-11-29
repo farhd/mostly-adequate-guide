@@ -1,6 +1,6 @@
 require('../../support');
 var E = require('./functor_exercises');
-var assert = require("chai").assert;
+var assert = require('chai').assert;
 
 describe("Functor Exercises", function(){
 
